@@ -56,7 +56,7 @@ from .utils.jinja import (
 )
 
 __version__ = "16.53.0"
-__title__ = "Frappe Framework"
+__title__ = "AB ERP Framework"
 
 if TYPE_CHECKING:  # pragma: no cover
 	from logging import Logger

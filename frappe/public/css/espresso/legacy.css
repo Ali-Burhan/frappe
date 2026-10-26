@@ -128,7 +128,7 @@
   --icon-fill: transparent;
   --icon-fill-bg: var(--fg-color);
   --input-disabled-bg: var(--gray-200);
-  --primary-color: var(--gray-900);
+  --primary-color: var(--teal-500);
   --progress-bar-bg: var(--primary);
   --text-dark: var(--fg-color);
   --text-neutral: var(--gray-900);
